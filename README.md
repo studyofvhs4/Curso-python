@@ -1,1 +1,1 @@
-# aula_01
+# Curso de Python presencial.
